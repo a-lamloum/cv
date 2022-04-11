@@ -1,0 +1,25 @@
+:root {
+    --black: #222831;
+    --gray: #393E46;
+    --blue: #00ADB5;
+    --white: #EEEEEE;
+    --twhite: #ffffff;
+}
+body {
+    background-color: var(--twhite);
+    width: 75%;
+    font-family: sans-serif;
+}
+p {
+    color: var(--gray);
+
+}
+h2{
+    color: var(--black);
+}
+tbody{
+    color: var(--gray);
+}
+thead{
+    color: var(--gray);
+}
